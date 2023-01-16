@@ -3,11 +3,16 @@ body {
   padding: 0%;
 }
 
-/* .container {
-  background-color: rgb(51, 26, 77);
+.container {
+  background-color: rgb(50, 37, 63);
   display: flex;
   align-items: center;
   flex-direction: column;
   width: 100vw;
   height: 100vh;
-} */
+}
+
+h1 {
+  color: white;
+  font-weight: bold;
+}
